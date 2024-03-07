@@ -16,19 +16,21 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there 👋, I'm Fauziya Khatoon</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<hr>
 
-
-<img align="right" alt="coding" width="420" height="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+<img align="right" alt="coding" width="380" height="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauziya902&label=Profile%20views&color=0e75b6&style=flat" alt="fauziya902" /> </p>
 
-- 🌱 I’m currently learning **ReactJs || Machine Learning**
+<hr>
+-🌱 I’m currently learning ReactJs || Machine Learning
 
 - 💬 Ask me about **Javascript,Java,Python**
 
 - 📫 How to reach me **fauziak902@gmail.com**
-
+  
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fauziya_khatoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fauziya_khatoon" height="30" width="40" /></a>
