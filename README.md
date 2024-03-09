@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey there 👋, I'm Fauziya Khatoon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Fronted Developer | Data Analysis | Machine Learning </h3>
 <hr>
 
 <img align="right" alt="coding" width="380" height="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
