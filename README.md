@@ -76,7 +76,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziya902&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauziya902&theme=default" alt="fauziya902 GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauziya902&theme=default" alt="GitHub Streak" />
 </p>
 
 
