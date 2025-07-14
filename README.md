@@ -14,8 +14,8 @@
 
 ---
 
-- 🌱 Currently learning: **ReactJS** | **Machine Learning**
-- 💻 Passionate about: **Web Development**, **AI/ML**, and **Data Analysis**
+- 🌱 Currently learning: **DSA** | **DL**
+- 💻 Passionate about: **Web Development**, **AI/ML**, and **Software Engineer**
 - 💬 Ask me about: **JavaScript, Java, Python, PHP, SQL**
 - 🎯 Focused on building: Scalable Web Projects and Smart ML Apps
 - 📫 Reach me at: **fauziak902@gmail.com**
