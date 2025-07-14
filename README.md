@@ -1,5 +1,9 @@
-<h1 align="center">Hello there! 👋 I'm Fauziya Khatoon</h1>
-<h3 align="center">🌐 Aspiring Web Developer | 📊 Data Analyst | 🤖 AIML Enthusiast</h3>
+<!--
+**fauziya902/fauziya902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<h1 align="center">Hey there 👋, I'm Fauziya Khatoon</h1>
+<h3 align="center">🌐 Web Developer | 📊 Data Analyst | 🤖 AIML Student</h3>
 <hr>
 
 <img align="right" alt="Coding" width="380" height="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
@@ -10,15 +14,15 @@
 
 ---
 
-- 🌱 **Currently Learning:** **Data Structures & Algorithms** | **Deep Learning**
-- 💻 **Passionate About:** **Web Development**, **AI/ML**, and **Software Engineering**
-- 💬 **Ask Me About:** **JavaScript, Java, Python, PHP, SQL**
-- 🎯 **Focused On:** Building **Scalable Web Projects** and **Smart ML Applications**
-- 📫 **Reach Me At:** [fauziak902@gmail.com](mailto:fauziak902@gmail.com)
+- 🌱 Currently learning: **DSA** | **DL**
+- 💻 Passionate about: **Web Development**, **AI/ML**, and **Software Engineer**
+- 💬 Ask me about: **JavaScript, Java, Python, PHP, SQL**
+- 🎯 Focused on building: Scalable Web Projects and Smart ML Apps
+- 📫 Reach me at: **fauziak902@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Let's Connect!</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://twitter.com/@fauziya_khatoon" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -45,7 +49,7 @@
 
 ---
 
-<h3 align="left">🛠️ Technologies & Tools</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -75,6 +79,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauziya902&theme=dark" alt="GitHub Streak" />
 </p>
 
+
 ---
 
 <h3>🚀 A Little More About Me</h3>
@@ -84,7 +89,7 @@ Name: Fauziya Khatoon
 Role: Full Stack Web Developer (in-progress)
 Background: Computer Science | AIML Student
 Interests:
-  - Building user-centric web applications
-  - Data visualization techniques
-  - AI-powered tools and solutions
-  - Contributing to open-source projects
+  - Building user-centric web apps
+  - Data visualization
+  - AI-powered tools
+  - Open-source contributions
